@@ -51,3 +51,9 @@
 | [飞书 Issue 回复](./feishu-issue-replies.md) | 飞书相关 GitHub Issue 汇总 |
 | [User Agreement](./user-agreement.md) | 用户协议 |
 | [Privacy Policy](./privacy-policy.md) | 隐私政策 |
+
+## 📰 行业洞察
+
+| 文档 | 说明 |
+|------|------|
+| [2026 AI 编程趋势报告](./ai-coding-trends-2026.md) | AI 辅助编程数据对比 · 0 成本方案 · 合规审查 |
