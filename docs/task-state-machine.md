@@ -60,7 +60,7 @@ node scripts/task-store.js get-input --task task_20260321_120000 --step 1
 node scripts/task-store.js update \
   --task task_20260321_120000 \
   --step 1 \
-  --status completed \
+  --status success \
   --output bingbu_output.json
 ```
 
@@ -121,7 +121,7 @@ node scripts/context-compressor.js compress \
 node scripts/task-store.js update \
   --task task_20260321_120000 \
   --step 2 \
-  --status completed \
+  --status success \
   --output libu_output.json
 ```
 
