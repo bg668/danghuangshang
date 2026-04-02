@@ -46,6 +46,7 @@
 | 文档 | 说明 |
 |------|------|
 | [架构详解](./architecture.md) | 三省六部映射、审批流程、多模型混搭 |
+| [多 Agent 通信机制](./multi-agent-communication.md) | Agent 间通信方式、上下文维护、任务进度追踪完整解析 |
 | [菠萝王朝案例](./pineapple-dynasty.md) | 14 Agent 真实运行的完整案例 |
 | [完整 FAQ](./faq.md) | 基础 + 技术常见问题 |
 | [飞书 Issue 回复](./feishu-issue-replies.md) | 飞书相关 GitHub Issue 汇总 |

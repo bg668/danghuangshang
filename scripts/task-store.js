@@ -12,7 +12,7 @@
  * 
  * 用法：
  *   node task-store.js create --id task_123 --plan plan.json
- *   node task-store.js update --task task_123 --step 1 --status completed
+ *   node task-store.js update --task task_123 --step 1 --status success
  *   node task-store.js get-input --task task_123 --step 2
  *   node task-store.js status --task task_123
  */
@@ -268,7 +268,7 @@ Task Store - 任务状态共享存储
 
 示例：
   node task-store.js create --id task_123 --plan plan.json
-  node task-store.js update --task task_123 --step 1 --status completed --output output.json
+  node task-store.js update --task task_123 --step 1 --status success --output output.json
   node task-store.js get-input --task task_123 --step 2
   node task-store.js status --task task_123
   node task-store.js list --limit 20
